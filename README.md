@@ -1,4 +1,4 @@
-# Ranu-Resturant-website-main
+# Ranu-Resturant-Frontend-website-main
 ![Screenshot (625)](https://user-images.githubusercontent.com/97075043/213353544-89d27d09-aa99-46ed-baae-e0e39506a99c.png)
 
 ![Screenshot (626)](https://user-images.githubusercontent.com/97075043/213353557-2d13db0b-11c4-4996-930b-ebb160e17cd2.png)
